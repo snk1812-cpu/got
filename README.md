@@ -167,11 +167,7 @@ git commit -m "Implement Tiny GPT language model"
 git push
 ```
 
-다음 파일은 GitHub에 올리지 않습니다.
+## 생성 결과 해석
 
-```text
-__pycache__/
-*.pyc
-tiny_gpt_checkpoint.pt
-input.txt
-```
+짧은 학습 시간과 작은 모델 크기로 인해 생성 문장은 완전한 문법을 갖추지 못했지만, 알파벳 분포, 공백, 줄바꿈, 문장부호 등 원문 데이터의 문자 수준 패턴을 학습한 것을 확인할 수 있다.
+
