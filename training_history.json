@@ -1,32 +1,62 @@
 [
   {
     "epoch": 1,
-    "training_batch_loss": 3.478653962612152,
-    "train_loss": 3.0705238223075866,
-    "validation_loss": 3.0565459370613097
+    "training_batch_loss": 3.01882670323054,
+    "train_loss": 2.5989769816398622,
+    "validation_loss": 2.5804582238197327
   },
   {
     "epoch": 2,
-    "training_batch_loss": 2.897928078174591,
-    "train_loss": 2.7232672691345217,
-    "validation_loss": 2.7328673720359804
+    "training_batch_loss": 2.5407458265622456,
+    "train_loss": 2.474899506568909,
+    "validation_loss": 2.419167637825012
   },
   {
     "epoch": 3,
-    "training_batch_loss": 2.678099694252014,
-    "train_loss": 2.619325613975525,
-    "validation_loss": 2.5773885369300844
+    "training_batch_loss": 2.4470869509379067,
+    "train_loss": 2.3814054846763613,
+    "validation_loss": 2.338497078418732
   },
   {
     "epoch": 4,
-    "training_batch_loss": 2.5903006744384767,
-    "train_loss": 2.5419733047485353,
-    "validation_loss": 2.5013869166374207
+    "training_batch_loss": 2.3763717595736185,
+    "train_loss": 2.3204026937484743,
+    "validation_loss": 2.2497529864311216
   },
   {
     "epoch": 5,
-    "training_batch_loss": 2.5375491166114807,
-    "train_loss": 2.49794864654541,
-    "validation_loss": 2.4536332964897154
+    "training_batch_loss": 2.30046924273173,
+    "train_loss": 2.2251185536384583,
+    "validation_loss": 2.1669370114803312
+  },
+  {
+    "epoch": 6,
+    "training_batch_loss": 2.2232630769411723,
+    "train_loss": 2.13692022562027,
+    "validation_loss": 2.0733302175998687
+  },
+  {
+    "epoch": 7,
+    "training_batch_loss": 2.150746762752533,
+    "train_loss": 2.063566505908966,
+    "validation_loss": 2.0124528467655183
+  },
+  {
+    "epoch": 8,
+    "training_batch_loss": 2.0919124011198678,
+    "train_loss": 1.9886093020439148,
+    "validation_loss": 1.9542990982532502
+  },
+  {
+    "epoch": 9,
+    "training_batch_loss": 2.0401089624563853,
+    "train_loss": 1.9405684113502502,
+    "validation_loss": 1.9174416422843934
+  },
+  {
+    "epoch": 10,
+    "training_batch_loss": 1.9985663171609243,
+    "train_loss": 1.9045763075351716,
+    "validation_loss": 1.8698619246482848
   }
 ]
